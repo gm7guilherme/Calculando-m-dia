@@ -1,0 +1,40 @@
+body{
+    background-image: url('https://64.media.tumblr.com/3b48e55a3beec52b8ec7e75dec98568d/tumblr_nqttvoqmns1r2geqjo1_540.gif');}
+.fieldset1{
+    background-color: rgb(117, 169, 236);
+    width: 70%;
+    margin-left: 15%;
+    height: 90px;
+    border-radius: 10px;
+    margin-top: 5%;
+
+}
+.fieldset2{
+    background-color: rgb(117, 169, 236);
+    width: 70%;
+    margin-left: 15%;
+
+    border-radius: 10px;
+    margin-top: 5%;
+}
+
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 5px;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(43, 43, 43);
+   
+
+}
+H1{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(43, 43, 43);
+}
+h2{
+    color: rgb(46, 46, 46);
+    background-color:rgb(117, 169, 236);
+}
